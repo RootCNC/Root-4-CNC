@@ -9,3 +9,16 @@ visit [the website](https://rootcnc.com)
 
 This project is licensed under the Creative Commons 4.0 license with 
 Attribution-NonCommerial-ShareAlike see `LICENSE.txt` for details
+
+## Video
+
+Youtube Videos can be found [here] (https://www.youtube.com/sailorpete12)
+
+Time Lapse Voice over video series [here] (https://www.youtube.com/playlist?list=PL5hghy18PulVQLauypyohv9KJJGx_RQMZ)
+
+Detail videos comming soon 
+
+## BOM
+
+
+Comming soon
