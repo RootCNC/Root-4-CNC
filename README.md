@@ -12,9 +12,9 @@ Attribution-NonCommerial-ShareAlike see `LICENSE.txt` for details
 
 ## Video
 
-Youtube Videos can be found [here] (https://www.youtube.com/sailorpete12)
+Youtube Videos can be found [here](https://www.youtube.com/sailorpete12)
 
-Time Lapse Voice over video series [here] (https://www.youtube.com/playlist?list=PL5hghy18PulVQLauypyohv9KJJGx_RQMZ)
+Time Lapse Voice over video series [here](https://www.youtube.com/playlist?list=PL5hghy18PulVQLauypyohv9KJJGx_RQMZ)
 
 Detail videos comming soon 
 
