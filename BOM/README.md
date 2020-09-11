@@ -53,7 +53,7 @@
 | Item               | Required | QTY    | Link|
 |----------------------------------|----------|--------|-----|
 |608 Bearings               | Yes       | #      |
-|SFU1605 L250 (Z-Axis)               | Yes       | 1      |
+|SFU1605 L300 (Z-Axis)               | Yes       | 1      |
 |SFU1605 L### (X-Axis)                | Yes       | 1      |
 |SFU1605 L### (Y-Axis)              | Yes       | 2      |
 |DSG16H S            | Yes       | 3      |
