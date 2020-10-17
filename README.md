@@ -13,6 +13,10 @@ visit [the website](https://rootcnc.com)
 This project is licensed under the Creative Commons 4.0 license with 
 Attribution-NonCommerial-ShareAlike see `LICENSE.txt` for details
 
+## Webiste
+
+Home of Root CNC can be found [Here](https://rootcnc.com/)
+
 ## Video
 
 Youtube Videos can be found [Here](https://www.youtube.com/sailorpete12)
