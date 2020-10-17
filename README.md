@@ -38,3 +38,5 @@ What length of 40x40mm Box section do I required?
 Please see this file [Here](https://github.com/RootCNC/Root-4-CNC/blob/master/Working%20Area.xlsx)
 
 For a comparison of **SFU1605 Ball screw length** VS **Box Section Length** VS **working area** (taking into account side panel thickness).
+
+For my build I used 1500mm long ballscrew for both X and Y Axis with a total working area of **1204mm by 1190mm** (XY) with a Z travel of 158mm as standard. (Z-Axis is **not** user configurable)
