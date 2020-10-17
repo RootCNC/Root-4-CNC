@@ -36,4 +36,5 @@ What is the working area of the Root 4 CNC Machine?
 What length of 40x40mm Box section do I required?
 
 Please see this file [Here](https://github.com/RootCNC/Root-4-CNC/blob/master/Working%20Area.xlsx)
+
 For a comparison of **SFU1605 Ball screw length** VS **Box Section Length** VS **working area** (taking into account side panel thickness).
