@@ -24,4 +24,16 @@ Detail videos comming soon
 ## BOM
 
 
-Comming soon
+Please see the BOM subfolder [HERE](https://github.com/RootCNC/Root-4-CNC/tree/master/BOM)
+
+This page is currently in WIP (Work-In-Progress)
+
+## Working Area
+
+
+What is the working area of the Root 4 CNC Machine?
+
+What length of 40x40mm Box section do I required?
+
+Please see this file [Here](https://github.com/RootCNC/Root-4-CNC/blob/master/Working%20Area.xlsx)
+For a comparison of **SFU1605 Ball screw length** VS **Box Section Length** VS **working area** (taking into account side panel thickness).
