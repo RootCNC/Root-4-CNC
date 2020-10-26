@@ -47,17 +47,17 @@
 |----------------------------------|----------|--------|-----|
 | 4 Axis CNC Router Kit 3.0 Nm 425o/in Nema 23               | Yes       | 1      | [LINK](https://www.omc-stepperonline.com/4-axis-cnc-router-kit-3-0-nm-425oz-in-nema-23-stepper-motor-and-driver-and-power-supply.html/?tracking=5efc6f6300e83)
 |1.5KW Spindle with VFD|Yes|1|[LINK_1](https://s.click.aliexpress.com/e/_dX0JKm3) [LINK_2](https://s.click.aliexpress.com/e/_dT4xs63) [LINK_3](https://s.click.aliexpress.com/e/_dSjt6gr) [LINK_4](https://s.click.aliexpress.com/e/_dSUhh43)
-|Micro Switch SPDT micro switch V4) KW11i|Yes|6|| 
-|12V or 24V PSU (For Controller power + any lights) |Yes|1|| 
+|Micro Switch SPDT micro switch V4 KW11i|Yes|6|[LINK UK](https://amzn.to/31Kf1wC) [LINK](https://s.click.aliexpress.com/e/_ATnQCz)| 
+|12V or 24V PSU (For Controller power + any lights) |Yes|1|[12V LINK UK](https://amzn.to/2HxYvIS) [12V lINK](https://s.click.aliexpress.com/e/_AACYyd)| 
 |Electrical Cabinet (size greater than 400x400x200mm) |No|1|| 
-|Aviation plug (GX12) |No|x||
+|Aviation plug (GX12) |No|x|[LINK UK](https://amzn.to/31LBPfl)[LINK](https://s.click.aliexpress.com/e/_AtqbWz)|
 
 
 # Motion
 | Item               | Required | QTY    | Link|
 |----------------------------------|----------|--------|-----|
-|608 Bearings               | Yes       | 38      |
-|SFU1605 L300 (Z-Axis)               | Yes       | 1      |
+|608 Bearings               | Yes       | 38      |[LINK UK](https://amzn.to/3dWB9c6) [LINK](https://s.click.aliexpress.com/e/_ATuujF)|
+|SFU1605 L300 (Z-Axis)               | Yes       | 1      |[LINK UK](https://amzn.to/3osWWNp) [LINK](https://s.click.aliexpress.com/e/_AOHs9J)|
 |SFU1605 L### (X-Axis)                | Yes       | 1      |
 |SFU1605 L### (Y-Axis)              | Yes       | 2      |
 |DSG16HS            | Yes       | 3      |
