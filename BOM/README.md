@@ -27,7 +27,7 @@
 
 (\*) When Coach bolts are used
 
-(\*\*)Only required if the standard is too loose
+(\*\*) Only required if the standard is too loose
 
 (\*\*\*) Can be mirrored for the Drag chain to be mounted on the other side
 
@@ -47,23 +47,78 @@
 |----------------------------------|----------|--------|-----|
 | 4 Axis CNC Router Kit 3.0 Nm 425o/in Nema 23               | Yes       | 1      | [LINK](https://www.omc-stepperonline.com/4-axis-cnc-router-kit-3-0-nm-425oz-in-nema-23-stepper-motor-and-driver-and-power-supply.html/?tracking=5efc6f6300e83)
 |1.5KW Spindle with VFD|Yes|1|[LINK_1](https://s.click.aliexpress.com/e/_dX0JKm3) [LINK_2](https://s.click.aliexpress.com/e/_dT4xs63) [LINK_3](https://s.click.aliexpress.com/e/_dSjt6gr) [LINK_4](https://s.click.aliexpress.com/e/_dSUhh43)
-|Micro Scwitch SPDT micro switch V4) KW11i|Yes|6|| 
+|Micro Switch SPDT micro switch V4) KW11i|Yes|6|| 
+|12V or 24V PSU (For Controller power + any lights) |Yes|1|| 
+|Electrical Cabinet (size greater than 400x400x200mm) |No|1|| 
+|Aviation plug (GX12) |No|x||
+
 
 # Motion
 | Item               | Required | QTY    | Link|
 |----------------------------------|----------|--------|-----|
-|608 Bearings               | Yes       | #      |
+|608 Bearings               | Yes       | 38      |
 |SFU1605 L300 (Z-Axis)               | Yes       | 1      |
 |SFU1605 L### (X-Axis)                | Yes       | 1      |
 |SFU1605 L### (Y-Axis)              | Yes       | 2      |
-|DSG16H S            | Yes       | 3      |
+|DSG16HS            | Yes       | 3      |
 |FK12 Bearing               | Yes       | 3      |
 |FF12 Bearing             | Yes       | 3      |
 |BK12             | Yes       | 1      |
 |BF12              | Yes       | 1      |
-|MGN12 250mm + MGN12C              | Yes       | 2      |
+|MGN12 250mm + (MGN12C x2)              | Yes       | 2      |
 |R38 18mm x 37mm Black Drag Chain 1M              | Yes       | CNC Size dependant      |
-| T-track [300mm,Blue]            | Yes       | 2      |
-| CNC shaft couplers Spider Jaw (10mm to 10mm)            | Yes       | 3      |
+|T-track [300mm, Blue]            | Yes       | 2      |
+|CNC shaft couplers Spider Jaw (10mm to 10mm)| Yes       | 3      |
+|HTD 3M Round Tooth Timing Belt Pulley 10MM Bore 36T| Yes       | 1      |
+|HTD 3M Round Tooth Timing Belt Pulley 8MM Bore 36T*| Yes       | 1      |
+|HTD 3M Round Tooth Timing Belt 9mm Wide 474-3m-09| Yes       | 1      |
 
+(\*) Dependant on stepper motor selection - This configuration will work for the above stepper motor from OMC Stepper Motor Online
 # Hardware
+Below is guide on the QTY required/ the pack sizes I brought to assemble the Root 4 CNC
+| Item               | Required | QTY    | Link|
+|----------------------------------|----------|--------|-----|
+|40mm box section (50mm shorter than X lead screw) *|Yes|2||
+|40mm box section (70mm shorter than Y lead screw ONLY WITH 18MM SIDE PANELS!) *|Yes|2||
+| M3 Insert Nut (Z-Axis Linear Guilds) | Yes | 20  | | 
+| M3 X 14MM Allen Hex Head A4 (Z-Axis Carriage to linear guilds) | Yes | 16  | | 
+| M3 X 16MM Allen Hex Head A4 (Z-Axis linear Guilds) | Yes | 20  | | 
+| M4 Knurled Thumb Nut (Used for Independent height dust shoe) | No | 4  | | 
+| M4 Nut | Yes | 100  | | 
+| M4 Penny Washer | Yes | 100  | | 
+| M4 X 10mm Socket Cap Head  | Yes | 100  | | 
+| M4 X 20mm Socket Cap Head  | Yes | 100  | | 
+| M4 X 25mm Socket Cap Head  | Yes | 100  | | 
+| M4 X 30mm Socket Cap Head  | Yes | 100  | | 
+| M4 X 40MM COUNTERSUNK | Yes | 100  | | 
+| M4 X 40mm Socket Cap Head  | Yes | 100  | | 
+| M5 Knurled Thumb Nut (Used for Independent height dust shoe) | No | 2  | | 
+| M5 Nuts  | Yes | 100  | | 
+| M5 Washer | Yes | 100  | | 
+| M5 x 16mm Socket Cap Head (To secure the Ball screw to Ball screw block, Z-Carriage) | Yes | 28  | | 
+| M5 x 20mm Socket Cap Head | Yes | 50  | | 
+| M5 x 75mm (Used for independent height dust shoe) | Yes | 4  | | 
+| M5 X 90MM A2 STAINLESS STEEL CAP HEX HEAD | Yes | 20  | | 
+| M6 Bed Insert nut | No | 200  | | 
+| M6 Insert Nut (10MM Long Furniture Insert) | Yes | 6  | | 
+| M6 x 10 mm Socket Cap Head | Yes | 20  | | 
+| M6 x 40mm Socket Cap Head (Z-Axis Ball screw bearing block) | Yes | 6  | | 
+| M8 loc nut | Yes | 100  | | 
+| M8 Nut | Yes | 200  | | 
+| M8 Washer | Yes | 200  | | 
+| M8 x 100mm (Coach or STD) Bolt | Yes | 16  | | 
+| M8 X 25MM  | Yes | 38  | | 
+
+(\*) Please see this file [Here](https://github.com/RootCNC/Root-4-CNC/blob/master/Working%20Area.xlsx). For a comparison of **SFU1605 Ball screw length** VS **Box Section Length** VS **working area** (taking into account side panel thickness).
+
+# MISC Items
+| Item               | Required | QTY    | Link|
+|----------------------------------|----------|--------|-----|
+|Mist Coolant Lubrication Spray System Unit (Used for Airline to Spindle - Aluminium machining)| No |1 | |
+|Pneumatic Air Solenoid Valve 2Way (Used for Airline to Spindle - Aluminium machining)| No |1 | |
+|T-track [300mm, Blue]| No |2 | |
+|Yellow Semi Rigid Nylon Tubing (Used for Airline to Spindle - Aluminium machining)| No |1 | |
+|Male Swivel Elbow Pneumatic Push-In Fitting Connector for Air. Size 8mm x 1/4"| No |x | |
+
+
+
