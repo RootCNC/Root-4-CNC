@@ -36,8 +36,8 @@
 |----------------------------------|--------|-----|
 |DustShoe_Side| 2|Root CNC Store|
 |DustShoe_Base|1|Root CNC Store|
-|Side_Panel_Left_FK|1|Root CNC Store|
-|Side_Panel_Right_FF|1|Root CNC Store|
+|Side_Panel_Left_FK|1|[Root CNC Store](https://rootcnc.com/product/root-4-side-panel/)|
+|Side_Panel_Right_FF|1|[Root CNC Store](https://rootcnc.com/product/root-4-side-panel/)|
 |Z_Axis_WoodPanel_Front|1|Root CNC Store|
 |Z_Axis_WoodPanel_Rear|1|Root CNC Store|
 
