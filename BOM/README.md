@@ -79,34 +79,34 @@ Below is guide on the QTY required/ the pack sizes I brought to assemble the Roo
 |----------------------------------|----------|--------|-----|
 |40mm box section (50mm shorter than X lead screw) *|Yes|2||
 |40mm box section (70mm shorter than Y lead screw ONLY WITH 18MM SIDE PANELS!) *|Yes|2||
-| M3 Insert Nut (Z-Axis Linear Guilds) | Yes | 20  | | 
-| M3 X 14MM Allen Hex Head A4 (Z-Axis Carriage to linear guilds) | Yes | 16  | | 
-| M3 X 16MM Allen Hex Head A4 (Z-Axis linear Guilds) | Yes | 20  | | 
-| M4 Knurled Thumb Nut (Used for Independent height dust shoe) | No | 4  | | 
-| M4 Nut | Yes | 100  | | 
-| M4 Penny Washer | Yes | 100  | | 
-| M4 X 10mm Socket Cap Head  | Yes | 100  | | 
-| M4 X 20mm Socket Cap Head  | Yes | 100  | | 
-| M4 X 25mm Socket Cap Head  | Yes | 100  | | 
-| M4 X 30mm Socket Cap Head  | Yes | 100  | | 
-| M4 X 40MM COUNTERSUNK | Yes | 100  | | 
-| M4 X 40mm Socket Cap Head  | Yes | 100  | | 
-| M5 Knurled Thumb Nut (Used for Independent height dust shoe) | No | 2  | | 
-| M5 Nuts  | Yes | 100  | | 
-| M5 Washer | Yes | 100  | | 
-| M5 x 16mm Socket Cap Head (To secure the Ball screw to Ball screw block, Z-Carriage) | Yes | 28  | | 
-| M5 x 20mm Socket Cap Head | Yes | 50  | | 
-| M5 x 75mm (Used for independent height dust shoe) | Yes | 4  | | 
-| M5 X 90MM A2 STAINLESS STEEL CAP HEX HEAD | Yes | 20  | | 
-| M6 Bed Insert nut | No | 200  | | 
-| M6 Insert Nut (10MM Long Furniture Insert) | Yes | 6  | | 
-| M6 x 10 mm Socket Cap Head | Yes | 20  | | 
-| M6 x 40mm Socket Cap Head (Z-Axis Ball screw bearing block) | Yes | 6  | | 
-| M8 loc nut | Yes | 100  | | 
-| M8 Nut | Yes | 200  | | 
-| M8 Washer | Yes | 200  | | 
-| M8 x 100mm (Coach or STD) Bolt | Yes | 16  | | 
-| M8 X 25MM  | Yes | 38  | | 
+|M3 Insert Nut (Z-Axis Linear Guilds) | Yes | 20  | | 
+|M3 X 14MM Allen Hex Head A4 (Z-Axis Carriage to linear guilds) | Yes | 16  | | 
+|M3 X 16MM Allen Hex Head A4 (Z-Axis linear Guilds) | Yes | 20  | | 
+|M4 Knurled Thumb Nut (Used for Independent height dust shoe) | No | 4  | | 
+|M4 Nut | Yes | 100  | | 
+|M4 Penny Washer | Yes | 100  | | 
+|M4 X 10mm Socket Cap Head  | Yes | 100  | | 
+|M4 X 20mm Socket Cap Head  | Yes | 100  | | 
+|M4 X 25mm Socket Cap Head  | Yes | 100  | | 
+|M4 X 30mm Socket Cap Head  | Yes | 100  | | 
+|M4 X 40MM COUNTERSUNK | Yes | 100  | | 
+|M4 X 40mm Socket Cap Head  | Yes | 100  | | 
+|M5 Knurled Thumb Nut (Used for Independent height dust shoe) | No | 2  | | 
+|M5 Nuts  | Yes | 100  | | 
+|M5 Washer | Yes | 100  | | 
+|M5 x 16mm Socket Cap Head (To secure the Ball screw to Ball screw block, Z-Carriage) | Yes | 28  | | 
+|M5 x 20mm Socket Cap Head | Yes | 50  | | 
+|M5 x 75mm (Used for independent height dust shoe) | Yes | 4  | | 
+|M5 X 90MM A2 STAINLESS STEEL CAP HEX HEAD | Yes | 20  | | 
+|M6 Bed Insert nut | No | 200  | | 
+|M6 Insert Nut (10MM Long Furniture Insert) | Yes | 6  | | 
+|M6 x 10 mm Socket Cap Head | Yes | 20  | | 
+|M6 x 40mm Socket Cap Head (Z-Axis Ball screw bearing block) | Yes | 6  | | 
+|M8 loc nut | Yes | 100  | | 
+|M8 Nut | Yes | 200  | | 
+|M8 Washer | Yes | 200  | | 
+|M8 x 100mm (Coach or STD) Bolt | Yes | 16  | | 
+|M8 X 25MM  | Yes | 38  | | 
 
 (\*) Please see this file [Here](https://github.com/RootCNC/Root-4-CNC/blob/master/Working%20Area.xlsx). For a comparison of **SFU1605 Ball screw length** VS **Box Section Length** VS **working area** (taking into account side panel thickness).
 
