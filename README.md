@@ -1,8 +1,8 @@
-<img align="right" width=175 src="Media/R_Logo.png" />
+<img align="right" width=175 src="https://github.com/RootCNC/Root-4-CNC/blob/master/Media/R_Logo.png" />
 
 # Root CNC
 
-<img align="center" width=600 src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/R_Logo.png" />
+<img align="center" width=600 src="https://github.com/RootCNC/Root-4-CNC/blob/master/Media/MainImg.jpg" />
 
 
 Official repository for the Root 4 CNC project files. For more information 
