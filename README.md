@@ -7,6 +7,8 @@ Root 4 is the successor to Root 3 CNC that was my main CNC for a number of years
 
 Root 4 was designed to accommodate larger size 3D printed CNC machine and seeing we’re due to get married soon (Pending lockdown restrictions) – I thought it best to build a bigger one for all the custom wedding ideas we’ve got.
 
+<img align="center" width=600 src="https://github.com/RootCNC/Root-4-CNC/blob/master/Media/Root_4_Ally.jpg" />
+
 The Root 4 follows the core design methodology of simple, cheap, scalable and use common parts for it design. It has also taken inspiration from fellow Root CNC community members who have built their own large-scale 3D printed CNC machines. I do enjoy seeing what you do with these machines, so please consider dropping me an email or post a photo of your build and what you make with this machine.
 
  ## Key Changes
