@@ -2,7 +2,7 @@
 
 # Root CNC
 
-<img align="center" width=600 src="Media/MainImg.jpg" />
+<img align="center" width=600 src="https://raw.githubusercontent.com/RootCNC/Root_4_Lite/main/Media/R_Logo.png" />
 
 
 Official repository for the Root 4 CNC project files. For more information 
