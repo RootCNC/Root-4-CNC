@@ -17,12 +17,12 @@
 | X_Axis_NEMA23_50mmSpacerFK12     | YES      | 1      |
 | XY_Carriage                      | YES      | 8/4*   |
 | XY_Carriage_Coach                | YES      | 4*     |
-| Y_Axis_BallScrewMount            | YES      | 2      |
-| Y_Axis_BallScrewMount+0.25       | YES      | 2**    |
+| XY_Axis_BallScrewMount           | YES      | 3      |
+| XY_Axis_BallScrewMount+0.25      | YES      | 3**    |
 | Y_Axis_DragChainCarriageMount    | YES      | 1***   |
 | Y_Axis_Mount_FF12                | YES      | 2      |
 | Y_Axis_Mount_FK12                | YES      | 2      |
-| Y_Axis_NEMA23_50mmMotorSpacer    | YES      | 1      |
+| Y_Axis_NEMA23_50mmMotorSpacer    | YES      | 2      |
 | Z_Axis_MotorMount                | YES      | 1      |
 
 (\*) When Coach bolts are used
@@ -31,7 +31,7 @@
 
 (\*\*\*) Can be mirrored for the Drag chain to be mounted on the other side
 
-# Dust Shoe Mount (100mm Piping)
+# Panels
 | Item               | QTY    | Link|
 |----------------------------------|--------|-----|
 |DustShoe_Side| 2|Root CNC Store|
