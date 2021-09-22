@@ -11,7 +11,7 @@
 
 ## Gotchas before starting
 1. Make sure you have access to metric box section in your country before you start printing parts.
-2. If you need Imperial, then there is a [branch of files for 1.5 inch box section to print instead])https://github.com/RootCNC/Root-4-CNC/tree/38mm-Dev/Source/STL_Files/38.1x38.1mm%20Box%20Section%20(1.5x1.5%20inch)
+2. If you need Imperial, then there is a [branch of files for 1.5 inch box section to print instead](https://github.com/RootCNC/Root-4-CNC/tree/38mm-Dev/Source/STL_Files/38.1x38.1mm%20Box%20Section%20(1.5x1.5%20inch)
 
 
 ## Printing parts
