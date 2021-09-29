@@ -96,6 +96,7 @@ Below is guide on the QTY required/ the pack sizes I brought to assemble the Roo
 |M5 Washer | Yes | 100  | | 
 |M5 x 16mm Socket Cap Head (To secure the Ball screw to Ball screw block, Z-Carriage) | Yes | 28  | | 
 |M5 x 20mm Socket Cap Head | Yes | 50  | | 
+|M5 x 55mm Socket Cap Head | Yes | 8 | |
 |M5 x 75mm (Used for independent height dust shoe) | Yes | 4  | | 
 |M5 X 90MM A2 STAINLESS STEEL CAP HEX HEAD | Yes | 20  | | 
 |M6 Bed Insert nut | No | 200  | | 
