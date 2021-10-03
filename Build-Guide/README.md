@@ -73,16 +73,21 @@
 4. Mark out and drill your Y axis mount holes. Screw down the rear mount.
 5. Slide your hollow box section into the Y axis mount (ensuring the carriages are already on) and screw in the front Y axis mount
 6. Find a solid, non-compressible item to slide under the side panel at the appropriate height (around 4mm). Tighten one side panel down fully. Use the same object to support the second side panel and tighten that down too.
-7. Prepare the Z axis front panel with rivnuts and threaded inserts, screw on your linear rails, leave everything else off
+7. Prepare the Z axis front panel by drilling holes for your T slot to mount on the edge of the panel (but don't mount it now), insert your rivnuts and threaded inserts, screw on your linear rails, leave everything else off
 8. Mount X axis ball screw mount and aluminium ball screw nut housing onto the rear face of the Z axis front panel
 9. Slide X axis mounts onto hollow box section (ensuring the carriages are already on) and lay it down on your table
 10. Mount the Z axis front panel onto the X carriages
-11. Wind the X axis ball screw nut into the centre of the screw. Position the X axis ball screw in place between the box section, ensuring the ball screw nut is on the correct side to nest inside the aluminium housing, but also ensuring the end machined for the fixed ball screw mount (FF) is on the left. Screw the ball screw nut into the housing
+11. Wind the X axis ball screw nut into the centre of the screw. Position the X axis ball screw in place between the box section, ensuring the ball screw nut is on the correct side to nest inside the aluminium housing, but also ensuring the end machined for the fixed ball screw mount (FF) is on the left. Screw the ball screw nut into the housing.
 12. Flip the X axis setup over and mount the Z axis rear panel
-13. Resting your X axis bottom carriage on a box or something of suitable height for support, screw the X axis mounts in place on your side panels
-14. Attach your X axis ball screw mounts
+13. Resting your X axis bottom carriage on a box or something of suitable height for support, screw the X axis mounts in place on your side panels, trying to ensure they are of equal height above your working surface.
+14. Wind your ball screw out so it protrudes through the right hand side panel. Attach your fixed side ball screw mount first as it's on the inside of the left side panel. Once secured, then wind your ball screw into place. Next mount the floating ball screw mount on the outside of the other side panel.
+15. Mount your Z axis motor mount, and mount the Z axis motor but don't tighten it down yet.
+16. Slide your last ball screw block onto the Z axis ball screw, then mount the Z axis ball screw along with it's mounts. Check that the ball screw block can move freely from top to bottom.
+17. Attach the T track to your front panel
+18. Attach your spindle mount
+19. Slide your Z axis belt through the holes on both Z panels, insert the pulleys into it, and then attach your pulleys to the motor/ball screw. Pull the Z motor back to make the belt tight, and tighten the motor screws down.
 
-15. To be continued...
+20. To be continued...
 
 ## License
 
