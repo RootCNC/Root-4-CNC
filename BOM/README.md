@@ -45,7 +45,7 @@
 # Electronics/ Electro Mechanical
 | Item               | Required | QTY    | Link|
 |----------------------------------|----------|--------|-----|
-| 4 Axis CNC Router Kit 3.0 Nm 425o/in Nema 23               | Yes       | 1      | [LINK](https://www.omc-stepperonline.com/4-axis-cnc-router-kit-3-0-nm-425oz-in-nema-23-stepper-motor-and-driver-and-power-supply.html/?tracking=5efc6f6300e83)
+| 4 Axis CNC Router Kit 3.0 Nm 425o/in Nema 23               | Yes       | 1      | [LINK](https://www.omc-stepperonline.com/4-axis-cnc-router-kit-3-0-nm-425oz-in-nema-23-stepper-motor-driver-power-supply-4-dm542y-23he45?tracking=5efc6f6300e83)
 |1.5KW Spindle with VFD|Yes|1|[LINK_1](https://s.click.aliexpress.com/e/_dX0JKm3) [LINK_2](https://s.click.aliexpress.com/e/_dT4xs63) [LINK_3](https://s.click.aliexpress.com/e/_dSjt6gr) [LINK_4](https://s.click.aliexpress.com/e/_dSUhh43)
 |Micro Switch SPDT micro switch V4 KW11i|Yes|6|[LINK UK](https://amzn.to/31Kf1wC) [LINK](https://s.click.aliexpress.com/e/_ATnQCz)| 
 |12V or 24V PSU (For Controller power + any lights) |Yes|1|[12V_LINK_UK](https://amzn.to/2HxYvIS) [12V_lINK](https://s.click.aliexpress.com/e/_AACYyd)| 
