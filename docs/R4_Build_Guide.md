@@ -69,4 +69,4 @@ Attribution-NonCommerial-ShareAlike see `LICENSE.txt` for details
 
 
 
-![ex_20200530_225621.jpg](/Root_4/Images/ex_20200530_225621.jpg =700x)
+![ex_20200530_225621.jpg](https://wiki.rootcnc.com/Root_4/Images/ex_20200530_225621.jpg =700x)
