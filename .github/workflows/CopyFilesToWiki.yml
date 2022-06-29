@@ -15,6 +15,7 @@ jobs:
       with:
         source_folder: 'docs'
         destination_repo: 'RootCNC/Wiki'
+        destination_branch: 'main'
         destination_folder: 'Root_4'
         user_email: 'rcnc3d@gmail.com'
         user_name: 'RootCNC'
