@@ -1,0 +1,21 @@
+name: Copy MD files to Wiki
+on:
+    push:
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Pushes Doc folder to wiki
+      uses: datalbry/copy_folder_to_another_repo_action@1.0.0
+      env:
+        API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      with:
+        source_folder: 'docs'
+        destination_repo: 'RootCNC/Wiki'
+        destination_folder: 'Root_4'
+        user_email: 'rcnc3d@gmail.com'
+        user_name: 'RootCNC'
+        commit_msg: 'Update the Root 4 Doc files.'
