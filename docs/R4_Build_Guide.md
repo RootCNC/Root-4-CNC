@@ -69,4 +69,4 @@ Attribution-NonCommerial-ShareAlike see `LICENSE.txt` for details
 
 
 
-![ex_20200530_225621.jpg](https://github.com/RootCNC/Root-4-CNC/blob/master/docs/Images/ex_20200530_225621.jpg =700x)
+![ex_20200530_225621.jpg](https://raw.githubusercontent.com/RootCNC/Root-4-CNC/master/docs/Images/ex_20200530_225621.jpg =700x)
