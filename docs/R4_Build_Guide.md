@@ -68,5 +68,4 @@ This project is licensed under the Creative Commons 4.0 license with
 Attribution-NonCommerial-ShareAlike see `LICENSE.txt` for details
 
 
-
-![ex_20200530_225621.jpg](https://raw.githubusercontent.com/RootCNC/Root-4-CNC/master/docs/Images/ex_20200530_225621.jpg)
+<img src="https://raw.githubusercontent.com/RootCNC/Root-4-CNC/master/Media/ex_20200530_225621.jpg" width="600">

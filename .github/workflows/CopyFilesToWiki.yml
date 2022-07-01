@@ -16,7 +16,7 @@ jobs:
         source_folder: 'docs'
         destination_repo: 'RootCNC/Wiki'
         destination_branch: 'main'
-        destination_folder: 'Root_4'
+        destination_folder: 'Root-4'
         user_email: 'rcnc3d@gmail.com'
         user_name: 'RootCNC'
         commit_msg: 'Update the Root 4 Doc files.'
