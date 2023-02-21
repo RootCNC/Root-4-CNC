@@ -1,4 +1,12 @@
-<img align="right" width=175 src="https://github.com/RootCNC/Root-4-CNC/blob/master/Media/R_Logo.png" />
+---
+title: Root 4 Assembly Guide
+description: Root 4 Assembly Guide 
+published: true
+date: 2022-06-28T21:37:30.411Z
+tags: root 4, r4, guide
+editor: markdown
+dateCreated: 2022-05-24T19:30:47.756Z
+---
 
 # Root 4 CNC Build Guide
 
