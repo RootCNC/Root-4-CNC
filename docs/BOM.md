@@ -1,4 +1,4 @@
-<img align="right" width=175 src="https://github.com/RootCNC/Root-4-CNC/blob/master/Media/R_Logo.png" />
+<img align="right" width=175 src="https://raw.githubusercontent.com/RootCNC/Root-4-CNC/master/Media/R_Logo.png" />
 
 # 3D Printed Parts required
 
